@@ -1,0 +1,42 @@
+/* All Comon CSS Start */
+body{
+    font-family: "Noto Sans Bengali", sans-serif;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a,a:hover {
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h6,p {
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+ul,ol {
+    list-style: none;
+}
+
+.container{
+    max-width: 990px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+/* All Comon Css End */
+
+
+/* Header Part Start */
+
+/* Header Part End */
+
+
+/* Bennar Part Start */
+
+/* Bennar Part End */
+
+
+
