@@ -15,45 +15,21 @@ h1,h2,h3,h4,h5,h6,p {
 }
 ul,ol {
     list-style: none;
-}
+};
 
-.container{
-    width: 1320px;
-    margin: 0 auto;
-    padding: 0 16px;
-}
+
 /* All Comon Css End */
 
 
 /* Header Part top Start */
 
-.headerTop {
-    background: red;
-    padding: 15px;
-    color: white;
-    ju
-}
 
-.btnTop{
-background: white;
-padding: 10px 5px;
-border-radius: 13px;
-}
-.btntopTextBn{
-    color: red;
-}
-.btntopTextEn{
-    background: red;
-    color: white;
-    padding: 5px 5px;
-    border-radius: 5;
-}
+
+
 /* Header Part top End */
 
 
 /* Bennar Part Start */
 
 /* Bennar Part End */
-
-
 
