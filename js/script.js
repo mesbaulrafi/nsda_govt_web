@@ -11,20 +11,18 @@ subBtn.addEventListener('click',()=>{
         alert('Enter Your Name')
     }
     else if (email.value === "") {
-        alert('Enter Your Email')
+        alert("Enter Youe Email")
     }
     else if (password.value === "") {
-        alert('Enter Your password')
+        alert('Enter Your Password')
     }
     else if (address.value === "") {
-        alert('Enter Your address')
+        alert('Enter Your Address')
     }
     else if (textaria.value === "") {
-        alert('Enter Your Text')
+        alert('Write Text')
     }
     else {
-        alert('succes')
+        alert('Submite')
     }
-    
-    
 })
